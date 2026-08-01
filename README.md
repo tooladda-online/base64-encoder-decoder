@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔣 Base64 Encoder & Decoder
+# 🔤 Base64 Encoder & Decoder
 
 ### Use Base64 Encoder & Decoder free on ToolAdda — quick, accurate, and browser-based.
 
