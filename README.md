@@ -2,14 +2,14 @@
 
 # 🔤 Base64 Encoder & Decoder
 
-### Use Base64 Encoder & Decoder free on ToolAdda — quick, accurate, and browser-based.
+### Encode or decode Base64 with live auto-detection, full UTF-8/Unicode support, URL-safe mode, drag-and-drop files, JSON/XML pretty-print, and batch ZIP export — all processed privately in your browser.
 
 [![Visit Base64 Encoder & Decoder](https://img.shields.io/badge/Visit%20Base64%20Encoder%20&%20Decoder-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/text-tools/base64-encoder-decoder.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/text-tools/base64-encoder-decoder.html)
 [![Category](https://img.shields.io/badge/Text%20Tools-f59e0b?style=for-the-badge)](#)
 
-**Use Base64 Encoder &amp; Decoder | ToolAdda with ToolAdda to complete tasks quickly, accurately, and privately in your browser.**
+**Encode or decode Base64 for text, JSON, images, and files instantly. Auto-detect, URL-safe mode, full UTF-8/Unicode support, drag & drop, batch mode — 100% private, runs in your browser.**
 
 [🚀 **Open Base64 Encoder & Decoder Now →**](https://tooladda.online/text-tools/base64-encoder-decoder.html)
 
@@ -91,11 +91,23 @@ Visit tooladda.online — search for Base64 Encoder & Decoder or use the link in
 ## 🔍 SEO keywords
 
 <p align="center">
-  <code>base64 encoder & decoder</code>&nbsp;
-  <code>free base64 encoder & decoder</code>&nbsp;
-  <code>online base64 encoder & decoder</code>&nbsp;
-  <code>base64 encoder & decoder tooladda</code>&nbsp;
-  <code>base64 encoder decoder</code>&nbsp;
+  <code>base64 encoder</code>&nbsp;
+  <code>base64 decoder</code>&nbsp;
+  <code>base64 encode</code>&nbsp;
+  <code>base64 decode</code>&nbsp;
+  <code>online base64 tool</code>&nbsp;
+  <code>base64 converter</code>&nbsp;
+  <code>text to base64</code>&nbsp;
+  <code>base64 to text</code>&nbsp;
+  <code>image to base64</code>&nbsp;
+  <code>base64 to image</code>&nbsp;
+  <code>file to base64</code>&nbsp;
+  <code>base64 validator</code>&nbsp;
+  <code>base64 url safe</code>&nbsp;
+  <code>base64 encoder decoder free</code>&nbsp;
+  <code>encode base64 online</code>&nbsp;
+  <code>decode base64 online</code>&nbsp;
+  <code>convert image to base64</code>&nbsp;
 </p>
 
 ---
@@ -112,4 +124,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: Base64 Encoder & Decoder, base64 encoder & decoder, free base64 encoder & decoder, online base64 encoder & decoder, base64 encoder & decoder tooladda, base64 encoder decoder, tooladda, free online tool -->
+<!-- SEO: Base64 Encoder & Decoder, base64 encoder, base64 decoder, base64 encode, base64 decode, online base64 tool, base64 converter, text to base64, base64 to text, image to base64, base64 to image, file to base64, base64 validator, base64 url safe, base64 encoder decoder free, encode base64 online, decode base64 online, convert image to base64, tooladda, free online tool -->
